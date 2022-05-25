@@ -5,16 +5,15 @@ public class UC1TicTacTaeGame {
 
         char[] val=new char[10];
         val[1]='A';
-    /*    val[2]=2;
-        val[3]=3;
-        val[4]=5;
-        val[5]=7;
-        val[6]=7;
-        val[7]=7;
-        val[8]=7;
-        val[9]=7;
+        val[2]='B';
+        val[3]='x';
+        val[4]='o';
+        val[5]='x';
+        val[6]='x';
+        val[7]='o';
+        val[8]='x';
+        val[9]='x';
 
-*/
        System.out.println(val[1]);
     }
 
